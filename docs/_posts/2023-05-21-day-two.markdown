@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Day 2! The old town and parks"
+date:   2023-05-21 11:47:35 +0200
+categories: jekyll update
+---
+Here you will find the itinerary for day 2!
+
+Coming up...

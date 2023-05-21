@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Day 1! Arrival"
+date:   2023-05-21 11:47:35 +0200
+categories: jekyll update
+---
+{: style="text-align: justify"}
+# Day 1: Friday
+
+Here is a proposed itinerary for Wednesday. The times may change, and we ask you to let us know as soon as you know how you will travel from the airport to the central station, so we can plan ahead.
+
+| time | Activity |
+|:---:|:---:|
+|10:20| Arrival to Stockholm Arlanda airport.|
+|11:20| Arrival to central station.|
+|12:00| Drop baggage off at the house| 
+|12:30| Lunch at our place.|
+|14:30| Rest time from the trip. | 
+|15:00| The Vasa museum. |
+|18:30| Dinner (see food tab for recommendations). |
+|20:00| Walk around Djugården / Strandvägen. |
+
+
+# About the vasa
+
+Immerse yourself in Stockholm's rich maritime heritage with a visit to the renowned [Vasa museum](https://www.vasamuseet.se/en). Discover the awe-inspiring Vasa Ship, a majestic warship that set sail in 1628 during Sweden's era of great power. Intended as a symbol of King Gustavus Adolphus' military might, the Vasa Ship was adorned with intricately carved sculptures and boasted an impressive array of cannons. However, tragedy struck on its maiden voyage when the vessel, top-heavy and unstable, capsized and sank just a short distance from the harbor.
+
+For centuries, the Vasa Ship lay forgotten on the seabed, until it was rediscovered in the 20th century. Meticulously salvaged and restored, the ship now takes center stage at the Vasa Museum. Step inside and be captivated by its sheer size, ornate decorations, and astonishing preservation. As you delve into the exhibits, you'll uncover the stories of the people who built, sailed, and ultimately faced the calamity of the Vasa Ship. A visit to the Vasa Museum is a journey through time, offering a unique perspective on Sweden's naval history and the challenges faced by seafarers of the past.
+<p align="center">
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.free-city-guides.com%2Fwp-content%2Fuploads%2F2011%2F10%2FStockholm-Vasa-Museum-Exterior_picnik.jpg&f=1&nofb=1&ipt=fd9a2e6cbc8b10074860a41c1f0195810f545c9635b263bd68ac0498ddada945&ipo=images" alt="vasamuseet" width="500"/>
+</p>
