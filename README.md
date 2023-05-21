@@ -1,1 +1,0 @@
-# Estocolmo 2023
