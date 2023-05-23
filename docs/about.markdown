@@ -4,10 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Welcome to the itinerary site for the spring vacation Stockholm 2023. Here we have compiled information we think will be helful for you, and have sketched a proposed itinerary for the days you will be here. We hope you enjoy your trip and feel at home. We are very excited to see you!
+<p align="justify">
+Welcome to the official site for the Stockholm 2023 trip. Here we have compiled information we think will be helful for you, given recommendations on food, places to visit and tours for the days you will visit the city. We hope you enjoy your trip and feel at home. We are very excited to see you and having you here! <br><br>
 
-Sincerely,
+Sincerely,<br><br>
 
-The raccons
-
-![Raccoon](https://media.giphy.com/media/StWnlQipuBrz2/giphy.gif)
+The Raccoons
+</p>
+<br>
+<p align="center">
+<img src="https://media.giphy.com/media/StWnlQipuBrz2/giphy.gif" alt="maethai" width="450"/>
+</p>
+<br>
