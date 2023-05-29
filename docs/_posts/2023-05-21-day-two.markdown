@@ -1,9 +1,18 @@
 ---
 layout: post
-title:  "Day 2!"
+title:  "Day 2: Thursday"
 date:   2023-05-21 11:47:35 +0200
 categories: jekyll update
 ---
+# Day 2: Thursday
 Here you will find the itinerary for day 2!
 
-Coming up...
+| time | Activity |
+|:---:|:---:|
+|10:00| Breakfast |
+| 11:00 | Sigtuna / Fjäderholmarna |
+|12:00| Lunch - picnic?|
+|15:00| Back to Stockholm | 
+|18:00|  | 
+|20:00|  |
+|21:00| Dinner (see food tab for recommendations). |

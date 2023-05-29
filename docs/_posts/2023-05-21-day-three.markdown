@@ -1,9 +1,18 @@
 ---
 layout: post
-title:  "Day 3!"
+title:  "Day 3: Friday"
 date:   2023-05-21 11:47:35 +0200
 categories: jekyll update
 ---
-Here you will find the itinerary for day 3.
+# Day 3: Friday
+Proposed itinerary for day 3:
 
-Coming up...
+| time | Activity |
+|:---:|:---:|
+|10:00| |
+|12:00| Lunch (see raccoomendations)|
+|14:00| | 
+|| Lunch at our place.|
+|18:00| Moderna museum / legend walking tour | 
+|20:00|  |
+|21:00| Dinner (see food tab for recommendations). |

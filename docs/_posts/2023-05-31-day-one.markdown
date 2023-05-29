@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Day 1! Arrival"
+title:  "Day 1! Wednesday"
 date:   2023-05-21 11:47:35 +0200
 categories: jekyll update
 ---
 {: style="text-align: justify"}
-# Day 1: Friday
+# Day 1: Wednesday
 
 Here is a proposed itinerary for Wednesday. The times may change, and we ask you to let us know as soon as you know how you will travel from the airport to the central station, so we can plan ahead.
 
@@ -16,8 +16,7 @@ Here is a proposed itinerary for Wednesday. The times may change, and we ask you
 |12:00| Drop baggage off at the house| 
 |12:30| Lunch at our place.|
 |14:30| Rest time from the trip. | 
-|15:00| The Vasa museum. |
+|15:00| The Vasa museum? |
 |18:30| Dinner (see food tab for recommendations). |
-|20:00| Walk around Djugården / Strandvägen. |
 
 
