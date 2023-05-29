@@ -61,6 +61,7 @@ Also a good centric option with handmade noodles, but a bit pricier than the oth
 <p align="justify">
 Swedish meatballs (köttbullar) are known for their tender texture and savory taste, making them a popular dish both in Sweden and around the world. Whether enjoyed as a main course with mashed potatoes and lingonberry sauce or served as a delightful appetizer, Swedish meatballs are a true delight for food enthusiasts seeking a taste of Swedish cuisine.
 </p>
+
 **IKEA** <a name="ikea"></a>
 
 <p align="justify">
@@ -71,6 +72,7 @@ It cannot get anymore swedish than this! Ikea meatballs have gained worldwide fa
 <img src="http://www.stromkult.com/wp-content/uploads/2015/07/k%C3%B6ttbullar.jpg" alt="kottbullar" width="450"/>
 </p>
 <br>
+
 **Kvarnen** <a name="kvarnen"></a> 
 <p align="justify">
 A hidden local gem founded in 1908. The name kvarnen means 'the mill', and it is an adaptation of its original name grå kvarn (gray mill), given after the gray mill tha stood on this place between 1600s and 1800s. This place was originally recommended by one of our swedish friends. Kvarnen serves a bast variety of traditional swedish food and offers a lunch weekly selection (veckans meny) of dishes Monday-Friday from 11–15 for 155 sek per person. The meny changes every week, but you can find it in this <a href="https://www.kvarnen.com/wp-content/uploads/2023/05/dagens-kvarn-2.pdf">link</a>.

@@ -24,15 +24,15 @@ Sweden has a different currency than the rest of the European Union: the Swedish
 
 There are a few ways for you to reach the central station from Stockholm Arlanda (ARN) airport. Some of them are cheaper and more frequent than others. Here are a few recommendations:
 
-- **Flygbussarna**<a name="flygbuss"></a>
+**Flygbussarna**<a name="flygbuss"></a>
 
 [Flygbussarna](https://www.flygbussarna.se/) travels frequently (every 30, 15 or 15 mins) between Arlanda and Stockholm Cityterminalen. Time table can be found [here](https://www.flygbussarna.se/ticket/timetables#port=171&stop=1&direction=to&date=2023-05-31). Adult tickets are 129 SEK (Swedish Kronor) one way or 209 SEK round trip per person. This is one of the most affordable options. 
 
-- **FlixBus**<a name="flixbux"></a>
+**FlixBus**<a name="flixbux"></a>
 
 [FlixBus](https://www.flixbus.se/) is a popular and usually cheap bus and train company in Europe. FLIXBUS, as well as Flygbussarna has a route from ARN to Cityterminalen, but busses are less frequent. Prices in flixbus vary between 85-140 SEK one way depending on the schedule, and there are normally no discounted tickets for round trips. It is possible to find cheaper trips than flygbussarna, but you may have to wait for some time at the airport.
 
-- **SL**<a name="SL"></a>
+**SL**<a name="SL"></a>
 
 [SL](https://sl.se/) is the public transportation service of Stockholm county. It offers regular trips from and to the airport directly to the central station. The pendeltåg (commuter train) station is inside terminal 5 of Arlanda, and there you can purchase tickets to go to Stockholm City station. The train number 40 takes you directly to the city center, but since the train stops in every station it may take a bit longer than the busses (40 mins compared to 30-35 mins). The direct tickets cost 171 SEK one way per adult, but there is a trick we found so you only pay for a single adult ticket: this is so far the cheapest alternative we have found, but it also takes longer (around 1h 15 mins). 
 
@@ -42,7 +42,7 @@ Outside terminal 4 (ryanair) you can find a bus stop and take either 579 or 583 
 
 Regardless of which option you choose to go from the airport to the central station, we recommend downloading the [SL app](https://sl.se/sl/om-sl/om-sl-appen) and configuring a debit/credit card to travel inside the city. 
 
-- **Arlanda express** <a name="arlandaexp"></a>
+**Arlanda express** <a name="arlandaexp"></a>
 
 [Arlanda express train](https://www.arlandaexpress.se/) This is the fastest but also the most expensive option to go from the airport to the city. There is currently a promotion to buy a group ticket, and it costs 840 SEK to buy a round ticket for two people. There is a separate train station for arlanda express inside terminal 4-5 of ARN. Trains depart evert 12-15 mins and unlike the pendeltåg that stops in every station in between, the train goes directly from the airport to the central station. It only takes around 20 mins to reach the city center. 
 
