@@ -2,6 +2,7 @@
 layout: page
 title: Our favorite spots
 permalink: /places_to_visit/
+order: 3
 ---
 
 ## Table of contents
