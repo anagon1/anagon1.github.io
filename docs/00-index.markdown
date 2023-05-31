@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Welcome to Stockholm!
 layout: home
-order: 1
 ---
 
 <p align="justify">

@@ -2,7 +2,6 @@
 layout: page
 title: Food raccoomendations
 permalink: /food-suggestions/
-order: 4
 ---
 
 ## Table of contents
